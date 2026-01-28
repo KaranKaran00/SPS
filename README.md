@@ -1,2 +1,5 @@
-# SPS
-STONE PAPER SCISSOR
+<h1># SPS
+STONE🌑 
+PAPER📃 
+SCISSOR✂
+</h1>
