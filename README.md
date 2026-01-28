@@ -1,4 +1,4 @@
-<h1># SPS<br>
+<center><h1># SPS<br></h1></center>
 STONE🌑 
 PAPER📃 
 SCISSOR✂
