@@ -35,7 +35,7 @@ class panel {
 		}
 		else if ((name.equals("STONE") && v1.equals("SCISSOR"))||
 				(name.equals("PAPER")  && v1.equals("STONE"))||
-				(name.equals("SCISSOR")&& v1.equals("STONE")))
+				(name.equals("SCISSOR")&& v1.equals("PAPER")))
 		{
 			System.out.println("YOU win 😒");
 			count2++;
@@ -76,3 +76,4 @@ class panel {
 	}
 
 }
+
